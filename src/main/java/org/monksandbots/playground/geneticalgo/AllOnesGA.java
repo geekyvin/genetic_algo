@@ -6,6 +6,7 @@ public class AllOnesGA {
         //Create GA object
         GeneticAlgorithm ga = new GeneticAlgorithm(100, 0.01, 0.95, 0);
         //ToDo: Add a lot more here
+        
     }
 
 }
